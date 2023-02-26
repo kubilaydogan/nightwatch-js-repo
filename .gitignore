@@ -1,0 +1,14 @@
+node_modules/
+package-lock.json
+.idea/
+
+# Test Output
+tests_output/
+allure-report/
+allure-results/
+screenshots/
+screens/
+logs/
+*.log
+
+    

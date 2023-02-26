@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch-js-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch",
+    "single": "nightwatch ./nightwatch/examples/basic/ecosia.js",
+    "tag": "nightwatch --tag ukg",
+    "clean": "rimraf logs tests_output"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^110.0.0",
+    "nightwatch": "^2.6.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "rimraf": "^4.1.2"
+  }
+}
