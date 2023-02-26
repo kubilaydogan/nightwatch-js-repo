@@ -1,10 +1,9 @@
 # Nightwatch - JS 
 
-<details>
+<!-- <details>
     <summary><b>Template</b></summary>
     
-
-</details>
+</details> -->
 
 <details>
     <summary><b>Tags</b></summary>
